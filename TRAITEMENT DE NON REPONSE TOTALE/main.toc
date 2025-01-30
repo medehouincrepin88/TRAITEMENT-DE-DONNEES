@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Principe de repondération}{11}{0}{2}
+\beamer@sectionintoc {3}{Différentes méthodes}{18}{0}{3}
+\beamer@sectionintoc {4}{Un cas pratique}{35}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{36}{0}{5}
